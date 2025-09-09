@@ -1,5 +1,5 @@
 # Calcifer1.0
-Car Maintenance Reminder Box
+Car Maintenance Reminder Box - Still working on it
 
 A small Arduino-based device with an LCD screen that helps track important car deadlines such as insurance, oil changes, vignette, and warranty expiration.
 
